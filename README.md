@@ -177,5 +177,5 @@ For any inquiries or feedback, please contact:
 
 - **Name:** Minhazul Mahmud
 - **Email:** minhaz.oj@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/minhazul-mahmud-71702a29a/)
-- **GitHub:** [Your GitHub Profile](https://github.com/MinhaulMahmud)
+- **LinkedIn:** [Minhazul Mahmud](https://www.linkedin.com/in/minhazul-mahmud-71702a29a/)
+- **GitHub:** [Minhazul Mahmud](https://github.com/MinhaulMahmud)
