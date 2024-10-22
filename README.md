@@ -47,8 +47,8 @@ Follow the steps below to set up the project on your local machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/contact-management-app.git
-   cd contact-management-app
+   git clone https://github.com/MinhaulMahmud/contact_app.git
+   cd contact_app
    ```
 
 2. **Install dependencies:**
